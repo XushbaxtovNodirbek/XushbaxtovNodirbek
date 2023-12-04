@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/xushbaxtovn" target="blank"><img src="https://img.shields.io/twitter/follow/xushbaxtovn?logo=twitter&style=for-the-badge" alt="xushbaxtovn" /></a> </p>
 
-- 🔭 I’m currently working on [ZakoBackend](https://github.com/Zako-j10/ZakoBackend)
+- 🔭 I’m currently working on [react-app](https://github.com/XushbaxtovNodirbek/react-demo)
 
 - 🌱 I’m currently learning **React Native,Tdlight**
 
